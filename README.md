@@ -14,6 +14,7 @@
 
   - 附加：浏览器信息
   - 格式：纯文本
+  - 缺点：不支持 IPv6
 
 - <https://ifconfig.co/>
 
@@ -24,10 +25,12 @@
 - <https://ipinfo.io/ip>
 
   - 格式：纯文本
+  - 缺点：不支持 IPv6
 
 - <https://ipecho.net/plain>
 
   - 格式：纯文本
+  - 缺点：不支持 IPv6
 
 - <https://api.ip.sb/ip>
 
@@ -44,13 +47,14 @@
   - 格式：JSON、纯文本、XML、CSV
   - 缺点：免费用户不能使用 HTTPS，1 分钟有 45 次请求的限制
 
-- <http://ipv4.icanhazip.com/>
+- <http://ipv4.icanhazip.com/>，<http://icanhazip.com/>
 
   - 格式：纯文本
 
 - <https://api.ipify.org/>
 
   - 格式：纯文本
+  - 缺点：不支持 IPv6
 
 - <http://myip.com.tw/>
 
