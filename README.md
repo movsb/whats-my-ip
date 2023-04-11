@@ -35,6 +35,7 @@
 - <https://api.ip.sb/ip>
 
   - 格式：纯文本、JSON
+  - 说明：看起来官方屏蔽了至少 curl 和 Go 在内的 User-Agent，若使用上述语言/工具/库，需要手动修改 User-Agent。
 
 * <https://wtfismyip.com/>，<https://myip.wtf/>
 
